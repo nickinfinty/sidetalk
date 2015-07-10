@@ -1,0 +1,20 @@
+﻿<Window x:Class="SideTalk.setup"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        ResizeMode="NoResize"
+        Title="Tell us" Height="235.6" Width="396.8" Icon="chat.ico" WindowStartupLocation="CenterScreen" WindowStyle="None">
+    <Grid Background="#FF9EAFFF">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="175*"/>
+            <ColumnDefinition Width="47*" Cursor="Help"/>
+            <ColumnDefinition Width="175*"/>
+        </Grid.ColumnDefinitions>
+        <Button Content="Female" VerticalAlignment="Top" Click="fButton_Click" Margin="27,-12,-11.6,-15.2" Height="256" FontSize="30" FontFamily="Segoe WP Light" Background="#FFDC8FFF" BorderBrush="{x:Null}" Grid.Column="1" Grid.ColumnSpan="2"/>
+
+        <Button Content="Male" HorizontalAlignment="Left" VerticalAlignment="Top" Width="207" Click="Button_Click" Height="256" FontSize="29" FontFamily="Segoe WP Light" Background="#FF94B2FA" BorderBrush="{x:Null}" Grid.ColumnSpan="2" Margin="-13,-12,0,-15.2"/>
+        <Image Source="Images\Male@2x.png" Height="50" VerticalAlignment="Top" Margin="14,40,5,0"/>
+        <Image Source="Images\Female@2x.png" Height="50" VerticalAlignment="Top" Margin="4.6,40,9.4,0" Grid.Column="2"/>
+
+        <Button Content="?" VerticalAlignment="Top" Margin="0,-12,167.4,-15.2" Height="256" FontFamily="Segoe WP Light" FontSize="40" Click="Button_Click_1" Background="#FF3F3F46" BorderBrush="{x:Null}" Grid.ColumnSpan="2" Grid.Column="1"/>
+    </Grid>
+</Window>

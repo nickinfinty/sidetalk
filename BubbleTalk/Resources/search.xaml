@@ -1,0 +1,12 @@
+﻿<UserControl x:Class="SideTalk.Resources.search"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="100" d:DesignWidth="400" Background="#FF6E93DF">
+    <Grid x:Name="g" MouseDown="g_MouseDown"  Opacity="0.505" MouseUp="g_MouseUp">
+        <Label x:Name="title" Content="Result Title" HorizontalAlignment="Left" VerticalAlignment="Top" VerticalContentAlignment="Center" Height="40" Width="400" ToolTip="{Binding Content, RelativeSource={RelativeSource Self}}" FontSize="20"/>
+        <Label x:Name="content" Content="Result details" Margin="0,40,0,0" Loaded="content_Loaded" />
+    </Grid>
+</UserControl>

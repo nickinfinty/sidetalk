@@ -1,0 +1,20 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:costum="clr-namespace:SideTalk" x:Class="SideTalk.Settings"
+        Title="Settings" Height="300" Width="300" Icon="Images/chat.ico" WindowStyle="None" Background="#FF8399FF">
+    <Grid Background="#FF9EAFFF" Margin="39,0,-0.4,-0.4">
+        <Label Content="Settings" HorizontalAlignment="Left" VerticalAlignment="Top" FontFamily="Segoe UI Semilight" FontSize="36" Margin="10,4,0,0"/>
+        <Canvas Margin="0,62,0.4,0.4">
+            <Label Content="Voice Type:" />
+            <RadioButton x:Name="male" Content="Male" Canvas.Left="81" Canvas.Top="6"/>
+            <RadioButton x:Name="female"  Content="Female" Canvas.Left="130" Canvas.Top="6" RenderTransformOrigin="-0.298,0.812" IsChecked="True" />
+        </Canvas>
+        <Button Content="Save" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="63" Margin="0,0,78,10" IsDefault="True" Click="Button_Click" Height="25" />
+        <Button Content="Cancel" HorizontalAlignment="Right"  VerticalAlignment="Bottom" Width="63" Margin="0,0,9,10" IsCancel="True" Click="Button_Click_1"  Height="25"/>
+
+
+
+
+    </Grid>
+</Window>

@@ -1,0 +1,217 @@
+I:\Projects\BubbleTalk\BubbleTalk\bin\Debug\SideTalk.exe
+I:\Projects\BubbleTalk\BubbleTalk\bin\Debug\SideTalk.pdb
+I:\Projects\BubbleTalk\BubbleTalk\obj\Debug\BubbleTalk.csprojResolveAssemblyReference.cache
+I:\Projects\BubbleTalk\BubbleTalk\obj\Debug\AboutBox.baml
+I:\Projects\BubbleTalk\BubbleTalk\obj\Debug\MainWindow.baml
+I:\Projects\BubbleTalk\BubbleTalk\obj\Debug\Settings.baml
+I:\Projects\BubbleTalk\BubbleTalk\obj\Debug\TalkWindow.baml
+I:\Projects\BubbleTalk\BubbleTalk\obj\Debug\App.baml
+I:\Projects\BubbleTalk\BubbleTalk\obj\Debug\AboutBox.g.cs
+I:\Projects\BubbleTalk\BubbleTalk\obj\Debug\MainWindow.g.cs
+I:\Projects\BubbleTalk\BubbleTalk\obj\Debug\Settings.g.cs
+I:\Projects\BubbleTalk\BubbleTalk\obj\Debug\TalkWindow.g.cs
+I:\Projects\BubbleTalk\BubbleTalk\obj\Debug\App.g.cs
+I:\Projects\BubbleTalk\BubbleTalk\obj\Debug\SideTalk_MarkupCompile.cache
+I:\Projects\BubbleTalk\BubbleTalk\obj\Debug\SideTalk.g.resources
+I:\Projects\BubbleTalk\BubbleTalk\obj\Debug\SideTalk.Properties.Resources.resources
+I:\Projects\BubbleTalk\BubbleTalk\obj\Debug\BubbleTalk.csproj.GenerateResource.Cache
+I:\Projects\BubbleTalk\BubbleTalk\obj\Debug\SideTalk.exe
+I:\Projects\BubbleTalk\BubbleTalk\obj\Debug\SideTalk.pdb
+I:\Projects\BubbleTalk\BubbleTalk\bin\Debug\SideTalk.exe.config
+I:\Projects\BubbleTalk\BubbleTalk\obj\Debug\SideTalk_MarkupCompile.lref
+I:\Projects\BubbleTalk\BubbleTalk\obj\Debug\Themes\Generic.baml
+I:\Projects\BubbleTalk\BubbleTalk\bin\Debug\SideTalk.exe.manifest
+I:\Projects\BubbleTalk\BubbleTalk\bin\Debug\SideTalk.application
+I:\Projects\BubbleTalk\BubbleTalk\obj\Debug\SideTalk.exe.manifest
+I:\Projects\BubbleTalk\BubbleTalk\obj\Debug\SideTalk.application
+L:\Projects\BubbleTalk\BubbleTalk\bin\Debug\SideTalk.exe.config
+L:\Projects\BubbleTalk\BubbleTalk\obj\Debug\SideTalk.exe
+L:\Projects\BubbleTalk\BubbleTalk\obj\Debug\SideTalk.pdb
+L:\Projects\BubbleTalk\BubbleTalk\bin\Debug\SideTalk.exe.manifest
+L:\Projects\BubbleTalk\BubbleTalk\bin\Debug\SideTalk.application
+L:\Projects\BubbleTalk\BubbleTalk\bin\Debug\SideTalk.exe
+L:\Projects\BubbleTalk\BubbleTalk\bin\Debug\SideTalk.pdb
+L:\Projects\BubbleTalk\BubbleTalk\obj\Debug\BubbleTalk.csprojResolveAssemblyReference.cache
+L:\Projects\BubbleTalk\BubbleTalk\obj\Debug\AboutBox.baml
+L:\Projects\BubbleTalk\BubbleTalk\obj\Debug\TalkWindow.baml
+L:\Projects\BubbleTalk\BubbleTalk\obj\Debug\App.baml
+L:\Projects\BubbleTalk\BubbleTalk\obj\Debug\AboutBox.g.cs
+L:\Projects\BubbleTalk\BubbleTalk\obj\Debug\MainWindow.g.cs
+L:\Projects\BubbleTalk\BubbleTalk\obj\Debug\Settings.g.cs
+L:\Projects\BubbleTalk\BubbleTalk\obj\Debug\TalkWindow.g.cs
+L:\Projects\BubbleTalk\BubbleTalk\obj\Debug\App.g.cs
+L:\Projects\BubbleTalk\BubbleTalk\obj\Debug\SideTalk_MarkupCompile.cache
+L:\Projects\BubbleTalk\BubbleTalk\obj\Debug\SideTalk_MarkupCompile.lref
+L:\Projects\BubbleTalk\BubbleTalk\obj\Debug\MainWindow.baml
+L:\Projects\BubbleTalk\BubbleTalk\obj\Debug\Settings.baml
+L:\Projects\BubbleTalk\BubbleTalk\obj\Debug\Themes\Generic.baml
+L:\Projects\BubbleTalk\BubbleTalk\obj\Debug\SideTalk.g.resources
+L:\Projects\BubbleTalk\BubbleTalk\obj\Debug\SideTalk.Properties.Resources.resources
+L:\Projects\BubbleTalk\BubbleTalk\obj\Debug\BubbleTalk.csproj.GenerateResource.Cache
+L:\Projects\BubbleTalk\BubbleTalk\obj\Debug\SideTalk.exe.manifest
+L:\Projects\BubbleTalk\BubbleTalk\obj\Debug\SideTalk.application
+L:\Projects\BubbleTalk\BubbleTalk\obj\Debug\setup.baml
+L:\Projects\BubbleTalk\BubbleTalk\obj\Debug\setup.g.cs
+D:\BubbleTalk\BubbleTalk\bin\Debug\SideTalk.exe.config
+D:\BubbleTalk\BubbleTalk\obj\Debug\SideTalk.exe
+D:\BubbleTalk\BubbleTalk\obj\Debug\SideTalk.pdb
+D:\BubbleTalk\BubbleTalk\obj\Debug\BubbleTalk.csprojResolveAssemblyReference.cache
+D:\BubbleTalk\BubbleTalk\obj\Debug\AboutBox.baml
+D:\BubbleTalk\BubbleTalk\obj\Debug\setup.baml
+D:\BubbleTalk\BubbleTalk\obj\Debug\TalkWindow.baml
+D:\BubbleTalk\BubbleTalk\obj\Debug\App.baml
+D:\BubbleTalk\BubbleTalk\obj\Debug\AboutBox.g.cs
+D:\BubbleTalk\BubbleTalk\obj\Debug\MainWindow.g.cs
+D:\BubbleTalk\BubbleTalk\obj\Debug\Settings.g.cs
+D:\BubbleTalk\BubbleTalk\obj\Debug\setup.g.cs
+D:\BubbleTalk\BubbleTalk\obj\Debug\TalkWindow.g.cs
+D:\BubbleTalk\BubbleTalk\obj\Debug\App.g.cs
+D:\BubbleTalk\BubbleTalk\obj\Debug\SideTalk_MarkupCompile.cache
+D:\BubbleTalk\BubbleTalk\obj\Debug\SideTalk_MarkupCompile.lref
+D:\BubbleTalk\BubbleTalk\bin\Debug\SideTalk.exe.manifest
+D:\BubbleTalk\BubbleTalk\bin\Debug\SideTalk.application
+D:\BubbleTalk\BubbleTalk\bin\Debug\SideTalk.exe
+D:\BubbleTalk\BubbleTalk\bin\Debug\SideTalk.pdb
+D:\BubbleTalk\BubbleTalk\obj\Debug\MainWindow.baml
+D:\BubbleTalk\BubbleTalk\obj\Debug\Settings.baml
+D:\BubbleTalk\BubbleTalk\obj\Debug\Themes\Generic.baml
+D:\BubbleTalk\BubbleTalk\obj\Debug\SideTalk.g.resources
+D:\BubbleTalk\BubbleTalk\obj\Debug\SideTalk.Properties.Resources.resources
+D:\BubbleTalk\BubbleTalk\obj\Debug\BubbleTalk.csproj.GenerateResource.Cache
+D:\BubbleTalk\BubbleTalk\obj\Debug\SideTalk.exe.manifest
+D:\BubbleTalk\BubbleTalk\obj\Debug\SideTalk.application
+L:\Projects\BubbleTalk\BubbleTalk\bin\Debug\Newtonsoft.Json.dll
+L:\Projects\BubbleTalk\BubbleTalk\bin\Debug\Newtonsoft.Json.xml
+L:\Projects\BubbleTalk\BubbleTalk\obj\Debug\close.baml
+L:\Projects\BubbleTalk\BubbleTalk\obj\Debug\minimize.baml
+L:\Projects\BubbleTalk\BubbleTalk\obj\Debug\close.g.cs
+L:\Projects\BubbleTalk\BubbleTalk\obj\Debug\minimize.g.cs
+L:\Projects\BubbleTalk\BubbleTalk\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Project Bubble\BubbleTalk\BubbleTalk\bin\Debug\SideTalk.exe.config
+D:\Project Bubble\BubbleTalk\BubbleTalk\obj\Debug\SideTalk.exe
+D:\Project Bubble\BubbleTalk\BubbleTalk\obj\Debug\SideTalk.pdb
+D:\Project Bubble\BubbleTalk\BubbleTalk\bin\Debug\SideTalk.exe.manifest
+D:\Project Bubble\BubbleTalk\BubbleTalk\bin\Debug\SideTalk.application
+D:\Project Bubble\BubbleTalk\BubbleTalk\bin\Debug\SideTalk.exe
+D:\Project Bubble\BubbleTalk\BubbleTalk\bin\Debug\SideTalk.pdb
+D:\Project Bubble\BubbleTalk\BubbleTalk\bin\Debug\Newtonsoft.Json.dll
+D:\Project Bubble\BubbleTalk\BubbleTalk\bin\Debug\Newtonsoft.Json.xml
+D:\Project Bubble\BubbleTalk\BubbleTalk\obj\Debug\BubbleTalk.csprojResolveAssemblyReference.cache
+D:\Project Bubble\BubbleTalk\BubbleTalk\obj\Debug\AboutBox.baml
+D:\Project Bubble\BubbleTalk\BubbleTalk\obj\Debug\close.baml
+D:\Project Bubble\BubbleTalk\BubbleTalk\obj\Debug\minimize.baml
+D:\Project Bubble\BubbleTalk\BubbleTalk\obj\Debug\setup.baml
+D:\Project Bubble\BubbleTalk\BubbleTalk\obj\Debug\App.baml
+D:\Project Bubble\BubbleTalk\BubbleTalk\obj\Debug\AboutBox.g.cs
+D:\Project Bubble\BubbleTalk\BubbleTalk\obj\Debug\close.g.cs
+D:\Project Bubble\BubbleTalk\BubbleTalk\obj\Debug\MainWindow.g.cs
+D:\Project Bubble\BubbleTalk\BubbleTalk\obj\Debug\minimize.g.cs
+D:\Project Bubble\BubbleTalk\BubbleTalk\obj\Debug\Settings.g.cs
+D:\Project Bubble\BubbleTalk\BubbleTalk\obj\Debug\setup.g.cs
+D:\Project Bubble\BubbleTalk\BubbleTalk\obj\Debug\TalkWindow.g.cs
+D:\Project Bubble\BubbleTalk\BubbleTalk\obj\Debug\App.g.cs
+D:\Project Bubble\BubbleTalk\BubbleTalk\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Project Bubble\BubbleTalk\BubbleTalk\obj\Debug\SideTalk_MarkupCompile.cache
+D:\Project Bubble\BubbleTalk\BubbleTalk\obj\Debug\SideTalk_MarkupCompile.lref
+D:\Project Bubble\BubbleTalk\BubbleTalk\obj\Debug\MainWindow.baml
+D:\Project Bubble\BubbleTalk\BubbleTalk\obj\Debug\Settings.baml
+D:\Project Bubble\BubbleTalk\BubbleTalk\obj\Debug\TalkWindow.baml
+D:\Project Bubble\BubbleTalk\BubbleTalk\obj\Debug\Themes\Generic.baml
+D:\Project Bubble\BubbleTalk\BubbleTalk\obj\Debug\SideTalk.g.resources
+D:\Project Bubble\BubbleTalk\BubbleTalk\obj\Debug\SideTalk.Properties.Resources.resources
+D:\Project Bubble\BubbleTalk\BubbleTalk\obj\Debug\BubbleTalk.csproj.GenerateResource.Cache
+D:\Project Bubble\BubbleTalk\BubbleTalk\obj\Debug\SideTalk.exe.manifest
+D:\Project Bubble\BubbleTalk\BubbleTalk\obj\Debug\SideTalk.application
+D:\新建文件夹 (2)\BubbleTalk\BubbleTalk\bin\Debug\SideTalk.exe.config
+D:\新建文件夹 (2)\BubbleTalk\BubbleTalk\bin\Debug\SideTalk.exe.manifest
+D:\新建文件夹 (2)\BubbleTalk\BubbleTalk\bin\Debug\SideTalk.application
+D:\新建文件夹 (2)\BubbleTalk\BubbleTalk\bin\Debug\SideTalk.exe
+D:\新建文件夹 (2)\BubbleTalk\BubbleTalk\bin\Debug\SideTalk.pdb
+D:\新建文件夹 (2)\BubbleTalk\BubbleTalk\bin\Debug\Newtonsoft.Json.dll
+D:\新建文件夹 (2)\BubbleTalk\BubbleTalk\bin\Debug\Newtonsoft.Json.xml
+D:\新建文件夹 (2)\BubbleTalk\BubbleTalk\obj\Debug\AboutBox.baml
+D:\新建文件夹 (2)\BubbleTalk\BubbleTalk\obj\Debug\close.baml
+D:\新建文件夹 (2)\BubbleTalk\BubbleTalk\obj\Debug\minimize.baml
+D:\新建文件夹 (2)\BubbleTalk\BubbleTalk\obj\Debug\Resources\Songs.baml
+D:\新建文件夹 (2)\BubbleTalk\BubbleTalk\obj\Debug\setup.baml
+D:\新建文件夹 (2)\BubbleTalk\BubbleTalk\obj\Debug\App.baml
+D:\新建文件夹 (2)\BubbleTalk\BubbleTalk\obj\Debug\AboutBox.g.cs
+D:\新建文件夹 (2)\BubbleTalk\BubbleTalk\obj\Debug\close.g.cs
+D:\新建文件夹 (2)\BubbleTalk\BubbleTalk\obj\Debug\English.g.cs
+D:\新建文件夹 (2)\BubbleTalk\BubbleTalk\obj\Debug\MainWindow.g.cs
+D:\新建文件夹 (2)\BubbleTalk\BubbleTalk\obj\Debug\minimize.g.cs
+D:\新建文件夹 (2)\BubbleTalk\BubbleTalk\obj\Debug\Resources\Songs.g.cs
+D:\新建文件夹 (2)\BubbleTalk\BubbleTalk\obj\Debug\Settings.g.cs
+D:\新建文件夹 (2)\BubbleTalk\BubbleTalk\obj\Debug\setup.g.cs
+D:\新建文件夹 (2)\BubbleTalk\BubbleTalk\obj\Debug\TalkWindow.g.cs
+D:\新建文件夹 (2)\BubbleTalk\BubbleTalk\obj\Debug\TalkWindowImage.g.cs
+D:\新建文件夹 (2)\BubbleTalk\BubbleTalk\obj\Debug\App.g.cs
+D:\新建文件夹 (2)\BubbleTalk\BubbleTalk\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\新建文件夹 (2)\BubbleTalk\BubbleTalk\obj\Debug\SideTalk_MarkupCompile.cache
+D:\新建文件夹 (2)\BubbleTalk\BubbleTalk\obj\Debug\SideTalk_MarkupCompile.lref
+D:\新建文件夹 (2)\BubbleTalk\BubbleTalk\obj\Debug\English.baml
+D:\新建文件夹 (2)\BubbleTalk\BubbleTalk\obj\Debug\MainWindow.baml
+D:\新建文件夹 (2)\BubbleTalk\BubbleTalk\obj\Debug\Settings.baml
+D:\新建文件夹 (2)\BubbleTalk\BubbleTalk\obj\Debug\TalkWindow.baml
+D:\新建文件夹 (2)\BubbleTalk\BubbleTalk\obj\Debug\TalkWindowImage.baml
+D:\新建文件夹 (2)\BubbleTalk\BubbleTalk\obj\Debug\Themes\Generic.baml
+D:\新建文件夹 (2)\BubbleTalk\BubbleTalk\obj\Debug\SideTalk.g.resources
+D:\新建文件夹 (2)\BubbleTalk\BubbleTalk\obj\Debug\SideTalk.Properties.Resources.resources
+D:\新建文件夹 (2)\BubbleTalk\BubbleTalk\obj\Debug\BubbleTalk.csproj.GenerateResource.Cache
+D:\新建文件夹 (2)\BubbleTalk\BubbleTalk\obj\Debug\SideTalk.exe.manifest
+D:\新建文件夹 (2)\BubbleTalk\BubbleTalk\obj\Debug\SideTalk.application
+D:\新建文件夹 (2)\BubbleTalk\BubbleTalk\obj\Debug\SideTalk.exe
+D:\新建文件夹 (2)\BubbleTalk\BubbleTalk\obj\Debug\SideTalk.pdb
+D:\新建文件夹 (2)\BubbleTalk\BubbleTalk\obj\Debug\BubbleTalk.csprojResolveAssemblyReference.cache
+D:\新建文件夹 (2)\BubbleTalk\BubbleTalk\obj\Debug\Resources\news.baml
+D:\新建文件夹 (2)\BubbleTalk\BubbleTalk\obj\Debug\Resources\news.g.cs
+D:\新建文件夹 (2)\BubbleTalk\BubbleTalk\obj\Debug\Resources\search.baml
+D:\新建文件夹 (2)\BubbleTalk\BubbleTalk\obj\Debug\Resources\search.g.cs
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\bin\Debug\SideTalk.exe.config
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\obj\Debug\SideTalk.exe
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\obj\Debug\SideTalk.pdb
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\bin\Debug\SideTalk.exe.manifest
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\bin\Debug\SideTalk.application
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\bin\Debug\SideTalk.exe
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\bin\Debug\SideTalk.pdb
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\obj\Debug\BubbleTalk.csprojResolveAssemblyReference.cache
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\obj\Debug\AboutBox.baml
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\obj\Debug\close.baml
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\obj\Debug\minimize.baml
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\obj\Debug\Resources\news.baml
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\obj\Debug\Resources\search.baml
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\obj\Debug\Resources\Songs.baml
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\obj\Debug\setup.baml
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\obj\Debug\App.baml
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\obj\Debug\AboutBox.g.cs
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\obj\Debug\close.g.cs
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\obj\Debug\English.g.cs
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\obj\Debug\MainWindow.g.cs
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\obj\Debug\minimize.g.cs
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\obj\Debug\Resources\news.g.cs
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\obj\Debug\Resources\search.g.cs
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\obj\Debug\Resources\Songs.g.cs
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\obj\Debug\Settings.g.cs
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\obj\Debug\setup.g.cs
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\obj\Debug\TalkWindow.g.cs
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\obj\Debug\TalkWindowImage.g.cs
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\obj\Debug\App.g.cs
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\obj\Debug\SideTalk_MarkupCompile.cache
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\obj\Debug\SideTalk_MarkupCompile.lref
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\obj\Debug\English.baml
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\obj\Debug\MainWindow.baml
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\obj\Debug\Settings.baml
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\obj\Debug\TalkWindow.baml
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\obj\Debug\TalkWindowImage.baml
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\obj\Debug\Themes\Generic.baml
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\obj\Debug\SideTalk.g.resources
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\obj\Debug\SideTalk.Properties.Resources.resources
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\obj\Debug\BubbleTalk.csproj.GenerateResource.Cache
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\obj\Debug\SideTalk.exe.manifest
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\obj\Debug\SideTalk.application
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Family\Documents\BubbleTalk\BubbleTalk\BubbleTalk\bin\Debug\HtmlAgilityPack.xml

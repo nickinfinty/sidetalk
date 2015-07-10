@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<answers>
+  <answer id="name" num="4">
+    <ans>I'm Sidetalk.</ans>
+    <ans>My name is SideTalk, the premium voice assistant.</ans>
+    <ans>This is SideTalk speaking.</ans>
+    <ans>I'm SideTalk, glad to meet you.</ans>
+  </answer>
+  <answer id="robot" num="1">
+    <ans>"In physical way,I am,but you human may not accept that AI has anamnesis."</ans>
+  </answer>
+  <answer id="know" num="1">
+    <ans>Internet,friend. He will tell you everything.</ans>
+  </answer>
+  <answer id="unknown" num="3">
+    <ans>Sorry, but I didn't get you.</ans>
+    <ans>I beg your pardon?</ans>
+    <ans>Please check your grammar and punctuation.</ans>
+  </answer>
+  <answer id="dirtyw" num="1">
+    <ans>Don't be so rude.</ans>
+  </answer>
+</answers>

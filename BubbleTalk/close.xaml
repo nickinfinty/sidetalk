@@ -1,0 +1,25 @@
+﻿<UserControl x:Class="SideTalk.close"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" >
+    <Rectangle x:Name="rt" Margin="0,0,0,0" Fill="#f1c40f" Panel.ZIndex="99" VerticalAlignment="Top" HorizontalAlignment="Right" Width="40" Height="20" Opacity="0.8" MouseUp="rt_MouseUp" >
+        <Rectangle.Triggers>
+            <EventTrigger RoutedEvent="UIElement.MouseDown">
+                <BeginStoryboard>
+                    <Storyboard>
+                        <ColorAnimation Duration="0:0:0.1" Storyboard.TargetName="rt" Storyboard.TargetProperty="(Shape.Fill).(SolidColorBrush.Color)" To="#C0392B" />
+                    </Storyboard>
+                </BeginStoryboard>
+            </EventTrigger>
+            <EventTrigger RoutedEvent="UIElement.MouseDown">
+                <BeginStoryboard>
+                    <Storyboard>
+                        <ColorAnimation Duration="0:0:0.1" Storyboard.TargetName="rt" Storyboard.TargetProperty="(Shape.Fill).(SolidColorBrush.Color)" To="#E74C3C" />
+                    </Storyboard>
+                </BeginStoryboard>
+            </EventTrigger>
+        </Rectangle.Triggers>
+    </Rectangle>
+</UserControl>
